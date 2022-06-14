@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace WebAPICore5_0W
+namespace WebAPICore5_0W.Models
 {
     public partial class User
     {

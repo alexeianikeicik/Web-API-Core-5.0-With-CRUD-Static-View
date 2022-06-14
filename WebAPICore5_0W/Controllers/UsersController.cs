@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebAPICore5_0W;
+using WebAPICore5_0W.Models;
+
 
 namespace WebAPICore5_0W.Controllers
 {

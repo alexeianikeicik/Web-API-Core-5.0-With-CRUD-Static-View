@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 #nullable disable
 
-namespace WebAPICore5_0W
+namespace WebAPICore5_0W.Models
 {
     public partial class helloappdbContext : DbContext
     {
